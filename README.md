@@ -12,8 +12,8 @@ This is an implementation of the paper "Practical Foldover-Free Volumetric Mappi
 
 ```
 2D case:
-source is a planar mesh: PP2D_code.exe source.obj init.obj result.obj
-sourc is a surface mesh: PP2D_code.exe source.obj init.obj result.obj
+source is a planar mesh: PP2D_code.exe source.obj init.obj 
+sourc is a surface mesh: PP2D_code.exe source.obj init.obj 3
 
 3D case:
 PP_Code.exe source_mesh.ovm initial_mesh.ovm
