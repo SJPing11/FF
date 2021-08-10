@@ -2,6 +2,7 @@
 This is an implementation of the paper "Practical Foldover-Free Volumetric Mapping Constructio".
 
 ### Dependencies
+* [OpenMesh](https://www.graphics.rwth-aachen.de/software/openmesh/download/)
 * [OpenVolumeMesh](https://www.graphics.rwth-aachen.de/software/openvolumemesh/download/)
 * [Eigen](http://eigen.tuxfamily.org/)
 * [PARDISO](https://pardiso-project.org/)
