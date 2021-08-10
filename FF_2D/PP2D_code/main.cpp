@@ -30,7 +30,7 @@ int main(int argc, char *argv[])
 	const string input_mesh = argv[1];
 	const string initial_mesh = argv[2];
 
-	Parafun pro(input_mesh, initial_mesh, int(argv[3]));
+	Parafun pro(input_mesh, initial_mesh, atoi(argv[3]));
 
 	cout << input_mesh << " surface process projective begin ......" << endl;
 	pro.pck();
